@@ -1,2 +1,3 @@
-# L1T11 - Capstone Project - Variables and Control Structures
-## *Code Mentor Onboarding - Branden v Staden.*
+### Financial Calculator
+
+This web application is a basic financial calculator for compound and simple interest calculations on investments and monthly bond repayments.
